@@ -1,0 +1,3 @@
+# Exclude virtualenv folder
+env/
+.vscode/
